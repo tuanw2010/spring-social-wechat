@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/docs/docs.iml" filepath="$PROJECT_DIR$/.idea/modules/docs/docs.iml" group="docs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/docs/manual/manual.iml" filepath="$PROJECT_DIR$/.idea/modules/docs/manual/manual.iml" group="docs/manual" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat/spring-social-wechat-spring-social-wechat.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat/spring-social-wechat-spring-social-wechat.iml" group="spring-social-wechat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat/spring-social-wechat-spring-social-wechat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat/spring-social-wechat-spring-social-wechat_main.iml" group="spring-social-wechat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat/spring-social-wechat-spring-social-wechat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat/spring-social-wechat-spring-social-wechat_test.iml" group="spring-social-wechat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat-web/spring-social-wechat-web.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat-web/spring-social-wechat-web.iml" group="spring-social-wechat-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat-web/spring-social-wechat-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat-web/spring-social-wechat-web_main.iml" group="spring-social-wechat-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat-web/spring-social-wechat-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat-web/spring-social-wechat-web_test.iml" group="spring-social-wechat-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat_main.iml" group="spring-social-wechat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-social-wechat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-social-wechat_test.iml" group="spring-social-wechat" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+Spring Social Wechat 1.0.0.RC1 (November 6, 2014)
+====================================================
+
+Refer to Spring Social's changelog for a history of the Wechat module
+prior to it being extracted into its own project.
